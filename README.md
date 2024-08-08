@@ -1,3 +1,14 @@
+What I Learned: I discovered how to use array methods like .map(), .filter(), and Object.keys(), and I also figured out how to build a playlist with JavaScript.
+
+Struggles: Initially, I found it tough to grasp the role of function arguments and how to apply these array methods correctly. I also had a hard time pulling out songs from the guardians' genre in a separate array.
+
+Improvements: Moving forward, I’ll explore different problem-solving techniques and try out new methods in future projects.
+
+References: w3schools, MDN Web Docs, and Stack Overflow.
+
+
+
+
 # [JSL05] Submission: Galaxy Playlist Generator
 
 You will:
